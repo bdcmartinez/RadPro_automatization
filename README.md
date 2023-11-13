@@ -26,12 +26,5 @@ Este programa es una herramienta automatizada diseñada para interactuar con el 
 - Este script depende de la estructura actual del sitio web mencionado; cualquier cambio en el sitio puede requerir una actualización del script.
 - Asegúrese de tener la última versión de Chrome y Selenium WebDriver instalados para evitar problemas de compatibilidad.
 
-## Licencia
-[Incluir detalles de la licencia aquí, si los hay]
-
-## Contacto
-[Incluir información de contacto o del autor aquí]
-
----
 
 Este README proporciona una descripción general del funcionamiento y propósito del programa. Para más detalles, por favor revise el código fuente o contacte al desarrollador.
