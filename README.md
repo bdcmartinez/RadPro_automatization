@@ -1,5 +1,5 @@
 # RadPro_automatization
-# Radiación Isotópica - Calculadora Automatizada
+# Radiación Ionizante - Calculadora Automatizada
 
 ## Descripción
 Este programa es una herramienta automatizada diseñada para interactuar con el sitio web "http://www.radprocalculator.com/Gamma.aspx". Utiliza Selenium, una herramienta de automatización de navegadores, para recoger datos de radiación de varios radioisótopos. Es especialmente útil en campos como la investigación nuclear o médica para el análisis de la radiación de diferentes isotopos.
